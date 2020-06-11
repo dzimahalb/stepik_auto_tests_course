@@ -1,4 +1,6 @@
 # stepik_auto_tests_course
-study_git
+study_git. Здесь хранятся Д/З.
 
-https://stepik.org/lesson/187065/step/7?unit=161976
+https://stepik.org/course/575/syllabus
+
+
